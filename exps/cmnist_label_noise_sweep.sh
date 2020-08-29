@@ -1,0 +1,10 @@
+./exps/cmnist_with_specified_label_noise.sh 0.00
+./exps/cmnist_with_specified_label_noise.sh 0.05
+./exps/cmnist_with_specified_label_noise.sh 0.10
+./exps/cmnist_with_specified_label_noise.sh 0.15
+./exps/cmnist_with_specified_label_noise.sh 0.20
+./exps/cmnist_with_specified_label_noise.sh 0.25
+./exps/cmnist_with_specified_label_noise.sh 0.30
+./exps/cmnist_with_specified_label_noise.sh 0.35
+./exps/cmnist_with_specified_label_noise.sh 0.40
+./exps/cmnist_with_specified_label_noise.sh 0.45

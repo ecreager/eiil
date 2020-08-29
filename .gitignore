@@ -1,0 +1,6 @@
+.idea/*
+__pycache__/*
+plots/*
+results/*
+slurm_output/*
+old_scripts/*
