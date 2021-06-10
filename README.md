@@ -32,7 +32,7 @@ As an alternative, `InvariantRiskMinimization/code/colored_mnist/optimize_envs.s
 ## Citing this work
 If you find this code to your research useful please consider citing our workshop paper using the following bibtex entry
 ```
-@inproceedings{creager20environment,
+@inproceedings{creager21environment,
   title={Environment Inference for Invariant Learning},
   author={Creager, Elliot and Jacobsen, J{\"o}rn-Henrik and Zemel, Richard},
   booktitle={International Conference on Machine Learning},
