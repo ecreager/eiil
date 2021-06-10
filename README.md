@@ -1,5 +1,5 @@
 # Environment Inference for Invariant Learning
-This code accompanies the paper [Environment Inference for Invariant Learning](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-045.pdf), which appeared in the ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning.
+This code accompanies the paper [Environment Inference for Invariant Learning](https://arxiv.org/abs/2010.07249), which appears at ICML 2021.
 
 Thanks to my wonderful co-authors [Jörn-Henrik Jacobsen](https://github.com/jhjacobsen/) and [Richard Zemel](https://www.cs.toronto.edu/~zemel/inquiry/home.php).
 
@@ -35,8 +35,8 @@ If you find this code to your research useful please consider citing our worksho
 @inproceedings{creager20environment,
   title={Environment Inference for Invariant Learning},
   author={Creager, Elliot and Jacobsen, J{\"o}rn-Henrik and Zemel, Richard},
-  booktitle={ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning},
-  year={2020},
+  booktitle={International Conference on Machine Learning},
+  year={2021},
 }
 
 ```
